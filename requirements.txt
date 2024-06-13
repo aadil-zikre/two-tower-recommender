@@ -1,0 +1,2 @@
+krezi
+psycopg2-binary
